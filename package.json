@@ -17,6 +17,10 @@
       "zh"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xunflash/koishi-plugin-ai-voice.git"
+  },
   "files": [
     "lib",
     "dist"
