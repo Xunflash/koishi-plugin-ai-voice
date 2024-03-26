@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-ai-voice",
   "description": "创建huggingface.co API的AI音频(电棍/永雏塔菲...)并且发送语音消息 | Create AI audio (otto/taffy...) from the huggingface.co API and send voice messages",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "contributors": [
